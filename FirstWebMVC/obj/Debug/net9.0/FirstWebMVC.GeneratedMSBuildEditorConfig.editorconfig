@@ -48,6 +48,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[F:/D/BaiTapHumg/NetCoreAPI/NetCoreAPI/FirstWebMVC/Views/Student/create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxjcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/D/BaiTapHumg/NetCoreAPI/NetCoreAPI/FirstWebMVC/Views/Student/delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxkZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/D/BaiTapHumg/NetCoreAPI/NetCoreAPI/FirstWebMVC/Views/Student/edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxlZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/D/BaiTapHumg/NetCoreAPI/NetCoreAPI/FirstWebMVC/Views/Student/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxpbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/D/BaiTapHumg/NetCoreAPI/NetCoreAPI/FirstWebMVC/Views/Student/update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFx1cGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/D/BaiTapHumg/NetCoreAPI/NetCoreAPI/FirstWebMVC/Views/ViewBag/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlld0JhZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
