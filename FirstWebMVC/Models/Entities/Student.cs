@@ -1,5 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
+
 namespace Models.Entities
 {
     public class Student
@@ -10,6 +11,7 @@ namespace Models.Entities
         public string Email { get; set; }
         public DateTime DateOfBirth { get; set; }
 
-        
+        public int FacultyId { get; set; }
+        public Faculty Faculty { get; set; }
     }
 }

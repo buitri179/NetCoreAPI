@@ -15,7 +15,6 @@ F:\D\BaiTapHumg\NetCoreAPI\NetCoreAPI\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.c
 F:\D\BaiTapHumg\NetCoreAPI\NetCoreAPI\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.MvcApplicationPartsAssemblyInfo.cache
 F:\D\BaiTapHumg\NetCoreAPI\NetCoreAPI\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.RazorAssemblyInfo.cache
 F:\D\BaiTapHumg\NetCoreAPI\NetCoreAPI\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.RazorAssemblyInfo.cs
-F:\D\BaiTapHumg\NetCoreAPI\NetCoreAPI\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.sourcelink.json
 F:\D\BaiTapHumg\NetCoreAPI\NetCoreAPI\FirstWebMVC\obj\Debug\net9.0\rjimswa.dswa.cache.json
 F:\D\BaiTapHumg\NetCoreAPI\NetCoreAPI\FirstWebMVC\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 F:\D\BaiTapHumg\NetCoreAPI\NetCoreAPI\FirstWebMVC\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
